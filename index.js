@@ -10,7 +10,6 @@ const getFirstNames = (arr) => {
   }
   return userFirstNames;
 };
-
 getFirstNames(usersArray);
 // expected output:
 // [ 'Kirby', 'Tracie', 'Kendra', 'Kinney', 'Howard', 'Rachelle', 'Lizzie' ]
